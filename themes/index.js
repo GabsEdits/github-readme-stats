@@ -416,6 +416,13 @@ export const themes = {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+    gabs: {
+    title_color: "FFF1F3",
+    text_color: "FFF1F3",
+    icon_color: "5FABEE",
+    border_color: "F17755",
+    bg_color: "191515",
+   },
 };
 
 export default themes;
